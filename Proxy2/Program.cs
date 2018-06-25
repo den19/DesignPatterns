@@ -61,10 +61,7 @@ namespace Proxy2
     {
         private Math _math = new Math();
 
-        public double Add(double x, double y)
-        {
-            return _math.Add(x, y);
-        }
+        public double Add(double x, double y) => _math.Add(x, y);
         public double Sub(double x, double y)
         {
             return _math.Sub(x, y);
