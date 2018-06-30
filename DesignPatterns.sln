@@ -32,6 +32,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Decorator", "Decorator", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator1", "Decorator1\Decorator1.csproj", "{4B7AA0DE-1C4F-42FE-AE7B-040017E71707}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LegacyAsyncrony", "LegacyAsyncrony", "{D6AADDF4-EBA4-4355-AB45-4662BEB5CC16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyAsync", "LegacyAsync\LegacyAsync.csproj", "{57004467-15B1-45CD-83F4-8D982AFF8894}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +66,10 @@ Global
 		{4B7AA0DE-1C4F-42FE-AE7B-040017E71707}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B7AA0DE-1C4F-42FE-AE7B-040017E71707}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B7AA0DE-1C4F-42FE-AE7B-040017E71707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57004467-15B1-45CD-83F4-8D982AFF8894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57004467-15B1-45CD-83F4-8D982AFF8894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57004467-15B1-45CD-83F4-8D982AFF8894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57004467-15B1-45CD-83F4-8D982AFF8894}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -77,6 +85,7 @@ Global
 		{8E10640C-58DA-4257-950F-8DFA4B336E47} = {688BBBC1-5252-40BD-A2F6-5683C0A15331}
 		{92916ECC-885A-411E-BE5B-81A27E28466B} = {19C29A55-C8F8-49C4-A09C-DE26A9C1FFE6}
 		{4B7AA0DE-1C4F-42FE-AE7B-040017E71707} = {92916ECC-885A-411E-BE5B-81A27E28466B}
+		{57004467-15B1-45CD-83F4-8D982AFF8894} = {D6AADDF4-EBA4-4355-AB45-4662BEB5CC16}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C035F9B2-7C47-44F3-A7A0-19B7DA9E9FB5}
